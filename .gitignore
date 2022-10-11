@@ -1,0 +1,8 @@
+.DS_Store
+package-lock.json
+node_modules
+.vscode
+.env
+dist/*
+EX1/*
+tuto/external-script/*
