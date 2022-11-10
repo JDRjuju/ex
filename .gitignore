@@ -6,3 +6,8 @@ node_modules
 dist/*
 EX1/*
 tuto/external-script/*
+**/data/*.json
+tuto/js-demos
+tuto/pizzeria/hmi/basic-fetch
+supp_f_inutile.sh
+#pour cloner aller à https://downgit.evecalm.com/#/home
